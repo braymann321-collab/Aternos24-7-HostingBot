@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "YourBotUsername",
-    "password": "",
+    "password": "AKThunderServer.aternos.me",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "",
+    "port": 58073,
     "version": "",
     "try-creative": false
   },
